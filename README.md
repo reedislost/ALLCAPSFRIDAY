@@ -15,4 +15,4 @@ REED
 # POSTS
 
 
-- [12-1-22](./12-1.22.MD)
+- [12-1-22](https://github.com/reedislost/ALLCAPSFRIDAY/blob/main/12-1.22.md)
